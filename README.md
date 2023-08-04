@@ -4,6 +4,8 @@
 
 TimeMerge is an API project designed to assist users, especially remote workers across the world in different timezones, in finding the best times to collaborate effectively. When working with a distributed team, coordinating meetings and activities can be challenging due to time zone differences. TimeMerge aims to simplify this process by providing a centralized API that allows users to find overlapping time slots that suit everyone's schedule.
 
+https://time-merge-api.vercel.app/
+
 ## Resources
 
 - [Stack Overflow](https://stackoverflow.com/): An invaluable resource for developers seeking solutions to technical challenges. Stack Overflow provides a wealth of knowledge shared by the developer community.
